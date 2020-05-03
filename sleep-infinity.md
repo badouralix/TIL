@@ -1,3 +1,7 @@
+---
+date: April 30, 2018
+---
+
 # `sleep infinity`
 
 ## Fun Fact
