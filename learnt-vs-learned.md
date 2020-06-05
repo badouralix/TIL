@@ -4,7 +4,7 @@ date: April 30, 2018
 
 # Learnt vs learned
 
-## Fun fact
+## Fun Fact
 
 Both are correct spellings for the past tense and past participle of verb
 *learn*. However, **learnt** tends to be a British spelling, while **learned**
